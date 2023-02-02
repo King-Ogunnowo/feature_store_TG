@@ -1,0 +1,4 @@
+pyathena
+openpyxl
+pyarrow
+dvc
